@@ -1,0 +1,103 @@
+/*First section Start
+--------------------*/
+
+
+.container{
+	font-family: 'Lobster', cursive;
+    font-family: 'Indie Flower', cursive;
+    max-width: 1000px;
+    margin: 50px auto;
+    margin-left: 100px auto;
+    background-color: lime;
+    color: #800000;
+}
+
+.image{
+	width: 60px;
+	height: 70px;
+	margin: 100px solid white;
+	border-radius: 50%;
+	padding: 10px;
+	float: left;
+}
+.intro{
+	float: left;
+}
+.contacts{
+	float: right;
+	padding: 10px;
+}
+hr{
+	border: solid black 2px;
+	width: 99%;
+	margin: 0px auto;
+}
+.div-clear{
+	clear: both;
+/*Myself section Start
+--------------------*/
+}
+
+.left-div{
+	width: 30%;
+	float: left;
+	text-align: left;
+}
+.right-div{
+	width: 70%;
+	float: right;
+	text-align: right;
+}
+.div-clear{
+	clear: both;
+}
+.horizon{
+	border: solid black 1px;
+	width: 99%;
+	margin: 0px auto;
+	/*myself sectins end
+	-------------------*/
+}
+/*skills sections start
+---------------------*/
+.left-skill{
+	float: left;
+	width: 30%;
+}
+.right-section{
+	float: right;
+	width: 70%;
+}
+.both{
+	clear: both;
+}
+.h3{
+	border: solid black 1px;
+	margin: 0px auto;
+}
+/* skills secction Ends
+----------------------*/
+
+/*parents intro starts
+=====================*/
+.left-intro{
+	float: left;
+	width: 30%;
+	margin: 0px auto;
+}
+.right-intro{
+	float: right;
+	width: 70%;
+	margin: 0px auto;
+}
+/*footer section starts
+=====================*/
+#bottom-container{
+	background-color:black;
+	text-align: center;
+}
+#bottom-container{
+	color: white;
+	
+
+}
